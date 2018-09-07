@@ -43,5 +43,5 @@ $ ./benchmark 100000 protobuf flatbuffeers capnproto
 
 - [thekvs cpp-serializer](https://github.com/thekvs/cpp-serializers)
 
-
+- [chronoxor CppSerialization](https://github.com/chronoxor/CppSerialization)
 
