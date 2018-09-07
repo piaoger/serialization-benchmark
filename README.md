@@ -45,3 +45,4 @@ $ ./benchmark 100000 protobuf flatbuffeers capnproto
 
 - [chronoxor CppSerialization](https://github.com/chronoxor/CppSerialization)
 
+- [chronoxor CppSerialization](https://github.com/chronoxor/CppSerialization)
